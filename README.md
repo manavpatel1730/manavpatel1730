@@ -46,5 +46,4 @@ struct MyProfile {
 <img width=390 height=162.84 src="https://github-readme-streak-stats.herokuapp.com/?user=manavpatel1730&theme=algolia&border_radius=20" alt="readme stats"/>
   <br/>
 	
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavpatel1730&layout=donut-vertical&show_icons=true&rank_icon=github&border_radius=20&title_color=00AEFF&text_color=c9cacc&icon_color=4AB197&bg_color=050F2C"/>
-</div>
+ <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavpatel1730&layout=pie&show_icons=true&rank_icon=github&border_radius=20&title_color=00AEFF&text_color=c9cacc&icon_color=4AB197&bg_color=050F2C"/></div>
