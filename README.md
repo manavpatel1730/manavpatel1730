@@ -27,6 +27,7 @@ struct MyProfile {
 }
 
 ```
+<br>
 <hr/>
 <p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" /> </p>
 <div align="center">
